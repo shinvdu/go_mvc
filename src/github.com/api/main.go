@@ -15,4 +15,6 @@ func main() {
 	app.Run(":3000")
 }
 
-// GOPATH=/home/silas/Downloads/temp/  go build main.g
+// GOPATH=/home/silas/Downloads/temp/  go build main.go
+
+// https://www.golangprograms.com/advance-programs/golang-restful-api-using-grom-and-gorilla-mux.html
