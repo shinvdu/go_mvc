@@ -3,7 +3,7 @@ package handler
 import (
 	"encoding/json"
 	"net/http"
-	"../model"
+	"api/app/model"
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
 )

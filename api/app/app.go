@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"./handler"
-	"./model"
-	"../config"
+	"api/app/handler"
+	"api/app/model"
+	"api/config"
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
 )
