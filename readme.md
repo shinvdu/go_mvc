@@ -2,5 +2,5 @@ code for https://www.golangprograms.com/advance-programs/golang-restful-api-usin
 
 How to compile:
 
-GOPATH=/home/silas/Downloads/temp/  go build main.go
+GOPATH=$(pwd)  go build main.go
 
